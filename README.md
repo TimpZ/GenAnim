@@ -1,5 +1,4 @@
-# GenAnim Overlay
-## Resource: https://docs.libretro.com/specs/overlay/
+### GenAnim Overlay
 
 ##### Set the following variables in retroarch.cfg:
 ```
